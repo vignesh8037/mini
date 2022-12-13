@@ -1,0 +1,2 @@
+# mini
+mini_projest
